@@ -1,4 +1,13 @@
+*{
+    margin:20px;
+    box-sizing: border-box;
+}
 .header{
+    font-family: sans-serif;
+    width: auto;
+    height:70px;
+    padding: 20px;
+    border: 5px solid rgb(31, 196, 169);
     font-size: 36px;
     color: white;
     background-color: lightblue;
