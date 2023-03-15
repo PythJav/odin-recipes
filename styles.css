@@ -11,19 +11,20 @@
     border: 5px solid rgb(31, 196, 169);
     font-size: 36px;
     color: white;
-    background-color: lightblue;
+    background-color: rgb(208, 219, 46);
 }
 .links{
-    height:max-content;
-    width: max-content;
+    height:10px;
+    width: 10px;
+    padding: 10px;
     font-size:24px;
-    color:pink;
-    /* background-color:lightblue; */
+    color:white;
+    background-color:green;
 }
 .img{
     height: 250px;
     width : auto;
 }
 .bg{
-    background-color: rgb(53, 4, 45);
+    background-color: rgb(171, 223, 203);
 }
